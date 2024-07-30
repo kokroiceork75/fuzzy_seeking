@@ -1,4 +1,5 @@
-# fuzzy_seeking
+# fuzzy_seeking (PID + PD)
+
 
 ## real_positions.txt 不能刪除,要追的點 ( 跟gen_record.txt同一個資料夾 )
 path: seek_wei/1/controllers/seek_v1/
